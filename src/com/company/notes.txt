@@ -1,1 +1,5 @@
 sample notes
+
+hi...welcome to the master branch of github
+this is the final copy
+thank you....!
